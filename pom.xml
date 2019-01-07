@@ -5,10 +5,11 @@
     <groupId>com.in28minutes</groupId>
     <artifactId>webapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    
     </parent>
   <artifactId>webapp</artifactId>
   <name>Webapp</name>
+    <packaging>war</packaging>
     <description>Webapp</description> 
     <dependencies>
         <dependency>
